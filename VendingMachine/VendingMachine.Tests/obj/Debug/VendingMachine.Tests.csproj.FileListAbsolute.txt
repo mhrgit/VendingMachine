@@ -1,0 +1,9 @@
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\VendingMachine.Tests.dll
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\VendingMachine.Tests.pdb
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\nunit.framework.dll
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\VendingMachine.Core.dll
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\VendingMachine.Core.pdb
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\bin\Debug\nunit.framework.xml
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\obj\Debug\VendingMachine.Tests.csprojResolveAssemblyReference.cache
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\obj\Debug\VendingMachine.Tests.dll
+S:\Projects\VendingMachine\VendingMachine\VendingMachine.Tests\obj\Debug\VendingMachine.Tests.pdb
